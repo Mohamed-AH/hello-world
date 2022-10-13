@@ -2,7 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <h3> a new addition</h3>
-    <h4> deploying on conatiner (!train) using ansible </h4>
+    <h4> deploying on conatiner (!train !plane) using ansible </h4>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
